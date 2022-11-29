@@ -3,7 +3,7 @@
 int main(void){
     int x;
     while (1) {
-        x = iterative(1000);
+        x = recursive(1000);
         }
     return 0;
 }
